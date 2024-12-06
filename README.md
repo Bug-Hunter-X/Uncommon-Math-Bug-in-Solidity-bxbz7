@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Solidity function. The function `doSomething` incorrectly adds two numbers when they are equal instead of multiplying them. The bug is highlighted and a corrected version is provided.
